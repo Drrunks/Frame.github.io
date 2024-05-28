@@ -1,0 +1,38 @@
+#left{
+      color: white;
+      background-color:rgb(51, 51, 51);
+      float: left;
+      width: 35%;
+      height: 1000px
+}
+body{
+    background-color: silver;
+}
+#right{
+      font-size: 25px;
+      border-color:black;
+       margin-top:90px;
+      float: right;
+      width: 65%;
+
+}
+.ya1{
+   width: 140px;
+}
+.ya2{
+width: 140px;
+}
+.ya3{
+width: 180px;
+}
+.ya4{
+   background-color:teal;
+   font-size: 25px;
+  text-align: center;
+
+}
+.ya5{
+   font-size: 25px;
+   text-align: center;
+   background-color:teal;
+}

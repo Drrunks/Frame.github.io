@@ -1,0 +1,11 @@
+caption{
+text-decoration: underline;
+font-size: 50px;
+}
+table{
+border-collapse: collapse;
+border: solid 1px;
+}
+td{
+border-style: groove;
+}
